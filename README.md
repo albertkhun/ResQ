@@ -28,7 +28,7 @@ We propose an AI-powered Crop Disease Detection System that allows users to uplo
 
 ### Core Logic
 The system uses a Convolutional Neural Network (CNN) to extract features from uploaded plant images and identify disease patterns. Environmental data such as temperature and humidity is processed using a fully connected network. These outputs are merged using a fusion model to improve prediction accuracy. Based on prediction confidence, the system either provides treatment suggestions or requests additional images for better diagnosis.
-, the system either provides treatment suggestions or asks for additional images for better diagnosis.
+
 ## 3. TECHNICAL STACK
 
 ### Frontend
